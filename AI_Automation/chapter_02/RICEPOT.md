@@ -1,0 +1,1 @@
+RICE POT = Role + Intent /Instruction + Context + Expected + Persona + Output + Task
